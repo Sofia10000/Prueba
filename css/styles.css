@@ -27,7 +27,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 16px 32px;
-    background: var(--color-5);
+    background: var(--color-2);
     color: white;
 }
 
@@ -41,7 +41,7 @@ body {
 .hero {
     padding: 60px 20px;
     text-align: center;
-    background: linear-gradient(90deg, var(--color-1), var(--color-4));
+    background: linear-gradient(90deg, var(--color-5), var(--color-2));
     color: white;
 }
 
@@ -57,7 +57,7 @@ body {
 /* CTA */
 .cta {
     color: var(--bg);
-    background: var(--color-5);
+    background: var(--color-3);
     border: none;
     padding: 12px 24px;
     font-size: 1rem;
@@ -74,7 +74,7 @@ body {
 }
 
 .card {
-    background: var(--color-3);
+    background: var(--color-4);
     padding: 20px;
     border-radius: 8px;
     width: 200px;
@@ -85,6 +85,6 @@ body {
 .footer {
     text-align: center;
     padding: 20px;
-    background: var(--color-5);
-    color: white;
+    background: var(--color-3);
+    color: black;
 }
