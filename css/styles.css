@@ -56,7 +56,8 @@ body {
 
 /* CTA */
 .cta {
-    background: var(--color-2);
+    color: var(--bg);
+    background: var(--color-5);
     border: none;
     padding: 12px 24px;
     font-size: 1rem;
