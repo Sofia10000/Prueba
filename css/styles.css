@@ -85,6 +85,11 @@ body {
 .footer {
     text-align: center;
     padding: 20px;
+<<<<<<< Updated upstream
     background: var(--color-5);
     color: white;
+=======
+    background: var(--color-2);
+    color: black;
+>>>>>>> Stashed changes
 }
