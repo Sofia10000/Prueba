@@ -24,7 +24,7 @@ body {
 /* HEADER */
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding: 16px 32px;
     background: var(--color-5);
